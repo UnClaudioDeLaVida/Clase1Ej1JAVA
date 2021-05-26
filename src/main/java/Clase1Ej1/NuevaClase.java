@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Clase1Ej1;
-
-/**
- *
- * @author claudio
- */
+@author claudio
 public class NuevaClase {
-    
+    System.Out.println("Acabamos de modificar el archivo desde GitHub :v");
 }
