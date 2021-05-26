@@ -34,7 +34,6 @@ public class Main {
         System.out.println("i vale " + i);
         System.out.println("f vale " + f);
         System.out.println("d vale " + d);
-
         /* Mostrar el tamaño que ocupan en RAM los tipos de datos */
         System.out.println("El tamaño del caracter 'c' es: " + Character.SIZE + " bytes");
         System.out.println("El tamaño del entero 'i' es: " + Integer.SIZE + " bytes");
